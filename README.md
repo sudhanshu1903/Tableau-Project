@@ -67,20 +67,7 @@ Developed an interactive Tableau dashboard to analyze overall business performan
 
 ---
 
-## 📂 Repository Structure
 
-```text
-Business-Performance-Dashboard/
-│
-├── Financial Dashboard.twbx
-├── Dataset/
-│   └── Financial.xlsx
-├── Screenshots/
-│   └── Tableau Dashboard Financial.png
-└── README.md
-```
-
----
 
 ## 🎯 Business Objectives
 
