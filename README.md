@@ -103,6 +103,10 @@ Business-Performance-Dashboard/
 
 ---
 
+## 📸 Dashboard Screenshot
+
+![Business Performance Overview Dashboard](https://github.com/sudhanshu1903/Tableau-Project/blob/main/Tableau%20Dashboard%20Financial.png?raw=true)
+
 ## 👤 Author
 
 **Sudhanshu Adawade**
