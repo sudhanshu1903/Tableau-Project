@@ -9,7 +9,7 @@ Developed an interactive Tableau dashboard to analyze overall business performan
 
 ## 🖼️ Dashboard Preview
 
-![Business Performance Dashboard](Screenshots/Dashboard.png)
+![Business Performance Overview Dashboard](https://github.com/sudhanshu1903/Tableau-Project/blob/main/Tableau%20Dashboard%20Financial.png?raw=true)
 
 ---
 
@@ -90,9 +90,6 @@ Developed an interactive Tableau dashboard to analyze overall business performan
 
 ---
 
-## 📸 Dashboard Screenshot
-
-![Business Performance Overview Dashboard](https://github.com/sudhanshu1903/Tableau-Project/blob/main/Tableau%20Dashboard%20Financial.png?raw=true)
 
 ## 👤 Author
 
