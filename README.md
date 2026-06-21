@@ -89,6 +89,15 @@ Developed an interactive Tableau dashboard to analyze overall business performan
 - Tools Used: Tableau, Excel, Data Analytics, Business Intelligence.
 
 ---
+## 📂 Repository Structure
+
+```text
+Tableau-Project/
+│
+├── Financial Dashboard.twb
+├── Financial.xlsx
+├── README.md
+└── Tableau Dashboard Financial.png
 
 
 ## 👤 Author
