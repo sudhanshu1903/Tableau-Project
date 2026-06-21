@@ -89,6 +89,15 @@ Developed an interactive Tableau dashboard to analyze overall business performan
 - Tools Used: Tableau, Excel, Data Analytics, Business Intelligence.
 
 ---
+
+## 👤 Author
+
+**Sudhanshu Adawade**
+
+- Aspiring Data Analyst / MIS Executive
+- Skilled in Tableau, Excel, Power BI, SQL, and Data Analytics
+
+
 ## 📂 Repository Structure
 
 ```text
@@ -100,9 +109,4 @@ Tableau-Project/
 └── Tableau Dashboard Financial.png
 
 
-## 👤 Author
 
-**Sudhanshu Adawade**
-
-- Aspiring Data Analyst / MIS Executive
-- Skilled in Tableau, Excel, Power BI, SQL, and Data Analytics
